@@ -1,8 +1,4 @@
-# rkakde-a0
-Rishikesh Kakde's submission for the first assignment
-
-
- Part 1: Searching a map for Path
+Part 1: Searching a map for Path
 
 My program uses Breadth-First Search to find the optimal path to the destination(@)
     Set of Valid States:
